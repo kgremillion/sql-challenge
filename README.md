@@ -6,7 +6,9 @@
 ![ERD TABLE](https://github.com/kgremillion/sql-challenge/blob/master/EmployeeSQL/ERD.png)
 
 ### Data Engineering 
-Created tables for six csv files and identified necessary primary and foreign keys and imported files into new tables
+* created tables for six csv files
+* identified necessary primary and foreign keys
+* imported files into new tables
 
 ### Data Analysis
 sql_queries file shows how to:
